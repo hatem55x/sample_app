@@ -1,6 +1,6 @@
 
  <HEAD>
-<TITLE>Basic HTML Sample Page</TITLE>
+<TITLE>csc 667 assignment3</TITLE>
 </HEAD>
 
 <BODY BGCOLOR="#E4AEF1">
@@ -10,8 +10,17 @@
  
 
 Hello thank you for visiting my page 
-  <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a>
+<div>
+  
+<a href="https://hatemushistory.blogspot.com/">link to my blog</a>
 
+</div>
+
+<div>
+
+<img src="http://www.tumblr18.com/t18/2013/10/Cute-kitten-praying.jpg" alt="Cute Kitten" style="width:128px;height:128px">> 
+
+</div>
 Best regards 
 Hatem
  
