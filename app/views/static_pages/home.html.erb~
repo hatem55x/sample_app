@@ -1,6 +1,22 @@
-<h1>Sample App</h1>
-<p>
-  This is the home page for the
+
+ <HEAD>
+<TITLE>Basic HTML Sample Page</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#E4AEF1">
+<CENTER>
+<H1>Welcome csc 667</H1>
+
+ 
+
+Hello thank you for visiting my page 
   <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a>
-  sample application.
-</p>
+
+Best regards 
+Hatem
+ 
+
+ 
+</body> 
+</html>
+
